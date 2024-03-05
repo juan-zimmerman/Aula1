@@ -14,3 +14,6 @@ import pandas
 #tabela = pandas.read_csv("produtos.csv")
 #print(tabela)
 
+#pyautogui.click(x=3182, y=604)
+#pyautogui.click(x=3112, y=720)
+#time.sleep(0.5)
